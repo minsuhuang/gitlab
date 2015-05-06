@@ -5,5 +5,6 @@ public class Functions {
 		System.out.println("Hello!");
 		System.out.println("There");
 		System.out.println("One");
+		System.out.println("Two");
 	}
 }
