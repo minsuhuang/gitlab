@@ -8,7 +8,7 @@ public class FunctionsTest {
 
 	@Test
 	public void test() {
-		System.out.println("Not yet implemented");
+		Functions.doSomething();
 	}
 
 }
